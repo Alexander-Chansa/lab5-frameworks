@@ -1,5 +1,4 @@
-# Lab 5 – UI Frameworks in Practice
-
+# Lab 5 – UI Frameworks 
 This project demonstrates the use of Bootstrap, Tailwind CSS, and React.js for building styled and interactive UI components.
 
 ## Folders:
